@@ -22,7 +22,7 @@ const CV = () => {
       name: "Ahmed Aissa Berraies",
       title: "PhD, PMP | Lead Multiphysics Simulation Specialist",
       address: "Chaussée d'Anvers 57, 1000 Brussels, Belgium",
-      email: "ahmed_aissa_berraies@outlook.com",
+      email: "ahmedaissaberraies19@gmail.com",
       phoneBE: "(+32) 0470717227",
       whatsapp: "(+39) 3661313127",
       linkedin: "in/ahmed-aissa-berraies",
