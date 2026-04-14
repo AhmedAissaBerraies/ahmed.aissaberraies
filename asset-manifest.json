@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ahmed.aissaberraies/static/css/main.30715753.css",
+    "main.js": "/ahmed.aissaberraies/static/js/main.ef3ebe86.js",
+    "static/js/453.e9e7ec89.chunk.js": "/ahmed.aissaberraies/static/js/453.e9e7ec89.chunk.js",
+    "index.html": "/ahmed.aissaberraies/index.html",
+    "main.30715753.css.map": "/ahmed.aissaberraies/static/css/main.30715753.css.map",
+    "main.ef3ebe86.js.map": "/ahmed.aissaberraies/static/js/main.ef3ebe86.js.map",
+    "453.e9e7ec89.chunk.js.map": "/ahmed.aissaberraies/static/js/453.e9e7ec89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30715753.css",
+    "static/js/main.ef3ebe86.js"
+  ]
+}
