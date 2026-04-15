@@ -3,7 +3,7 @@ import './App.css';
 import { Mail, Phone, MapPin, Link, Briefcase, GraduationCap, Award, BookOpen, Globe, CheckCircle2, Camera, Shield, Mic, MessageCircle } from 'lucide-react';
 
 const CV = () => {
-  const [profileImg, setProfileImg] = useState(null);
+  const [profileImg, setProfileImg] = useState(process.env.PUBLIC_URL + '/profile.jfif');
   const fileInputRef = useRef(null);
 
   const handleImageChange = (e) => {
